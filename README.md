@@ -21,3 +21,5 @@ Provides you a short snippet of the given text by given queries.
 
 Это работает за ![alt text](http://mathurl.com/marnlqe.png "Новый вес предложения"),
 легко доделывается до ![alt text](http://mathurl.com/k42yeqc.png "Новый вес предложения"), если правильно разбивать запрос на слова.
+
+P.S. тестировалось только на Windows.
